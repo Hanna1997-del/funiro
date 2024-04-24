@@ -21,6 +21,7 @@ const Comparison: React.FC<ComparisonProps> = () => {
       <Compar/>
       <Service/>
       <Footer/>
+      <Footer/>
     </div>
   );
 };
